@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm currently contributing to open source projects.<br>I'm expanding my skills in the DevOps Domain.<br>Ask me anything about DevOps or Web Dev.<br>Fun Fact: I may not automate my coffee machine(yet), but I've definitely automated my deployments.<br>
+I'm currently contributing to open source projects.<br>I'm expanding my skills in the DevOps Domain.<br>Ask me anything about DevOps or Web Dev.<br>Fun Fact: I may not automate my coffee machine(yet), but I've definitely automated my deployment
 
+![Profile views](https://komarev.com/ghpvc/?username=chethanac15&label=Visitors&color=0e75b6&style=flat) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chethanac15) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@acchethan15) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/chethaan_ac?t=IhF-t6oj9fu6HSRsDzZx0Q&s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acchethan15@gmail.com) 
